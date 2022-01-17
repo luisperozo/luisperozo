@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luisperozo
 - 👀 I’m interested in network automation.
 - 🌱 I’m currently learning about Python automation of Cisco networks and products.
-- 💞️ I’m looking to collaborate on python automation projects.
+- 💞️ I’m looking to collaborate on Python automation projects.
 - 📫 You can reach me through twitter: @lfperozop or email: lfperozop@gmail.com
 
 <!---
